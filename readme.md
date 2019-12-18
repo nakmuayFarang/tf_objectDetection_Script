@@ -1,6 +1,7 @@
 # Tensorflow object detection API
 
 Setup workspace env for tensorflow object detection API.<br>
+https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html <br>
 https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/training.html
 
 This repo has to be clone in Tensoflow folder (Same directory model) :<br>
